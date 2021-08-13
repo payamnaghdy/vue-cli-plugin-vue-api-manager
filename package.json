@@ -1,0 +1,11 @@
+{
+  "name": "vue-cli-plugin-vue-api-manager",
+  "version": "0.0.1",
+  "description": "An api manager for Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Payam Naghdi",
+  "license": "ISC"
+}
